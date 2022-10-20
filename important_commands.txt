@@ -1,0 +1,8 @@
+ssh  -X dwaipayan@10.0.7.130
+
+
+/home/dwaipayan/codes/1mftb_2022Aug10/TB2dscf_heteroatom_lapack_newEF.extHam.with_corr.spinpol.exe  <mftb.in> mftb.out&
+
+
+
+scp dwaipayan@10.0.7.130:/home/dwaipayan/stuff_test/* D:/ThesisWork/
